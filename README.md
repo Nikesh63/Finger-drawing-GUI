@@ -1,10 +1,8 @@
 🎨 Finger Drawing App (OpenCV + Python)
 
-A real-time virtual drawing application that lets you draw
-in the air using your finger and a webcam.
+A real-time virtual drawing application that lets you draw in the air using your finger and a webcam.
 Built with OpenCV and NumPy, it uses simple HSV-based 
-skin detection to track hand movement and create a live 
-drawing experience.
+skin detection to track hand movement and create a live drawing experience.
 
 ✨ Features:
 Draw by moving your hand in the upper half of the screen.
